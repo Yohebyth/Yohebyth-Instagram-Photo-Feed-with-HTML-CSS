@@ -1,0 +1,42 @@
+body{
+    background: lightgrey;  
+    margin: 0;
+    }
+div.body-instagram{
+    width: 600px;
+    margin: auto;   
+    }
+header{
+    background: white;
+}
+div.body-instagram h1{
+    padding: 10px;
+    margin-top: 0;
+}
+div.espace{
+    margin-top: 0;
+    padding: 20px 100%;
+}
+div.post{
+    background: white;
+}
+div.post-header{
+    display: flex;
+}
+div.post-header h2, div.post-header span{
+    padding: 10px;
+}
+div.post-header h2{
+    margin: 0;
+    width: 100%;
+}
+div.post-header span{
+    color: grey;
+}
+div img{
+    width: 100%;
+}
+div p{
+    padding: 10px;
+    margin-top: 0;
+}
